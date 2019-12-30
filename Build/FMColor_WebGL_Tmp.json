@@ -1,0 +1,13 @@
+{
+"companyName": "FrozenMist",
+"productName": "FMColor",
+"dataUrl": "FMColor_WebGL_Tmp.data.unityweb",
+"asmCodeUrl": "FMColor_WebGL_Tmp.asm.code.unityweb",
+"asmMemoryUrl": "FMColor_WebGL_Tmp.asm.memory.unityweb",
+"asmFrameworkUrl": "FMColor_WebGL_Tmp.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
